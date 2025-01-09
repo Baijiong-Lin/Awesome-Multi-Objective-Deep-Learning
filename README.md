@@ -17,3 +17,13 @@ If you find this repository is useful for you, please cite our paper:
       year={2025},
 }
 ```
+
+## Contents
+- [Related Survey](#related-survey)
+
+## Related Survey
+
+| Venue      | Paper | Link |
+| :-------- | :---- | :-------- |
+| TKDE 2021 | A survey on multi-task learning | [Link](https://ieeexplore.ieee.org/document/9392366/) |
+| arXiv 2020.09.10 | Multi-task learning with deep neural networks: A survey | [Link](https://arxiv.org/abs/2009.09796) |
