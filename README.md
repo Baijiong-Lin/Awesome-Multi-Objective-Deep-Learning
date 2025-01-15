@@ -20,6 +20,8 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Contents
 - [Related Survey](#related-survey)
+- [Finding a Single Pareto Optimal Solution](#finding-a-single-pareto-optimal-solution)
+  - [Loss Balancing Methods](#loss-balancing-methods)
 - [Resources](#resources)
   - [Software](#software)
 
@@ -55,7 +57,79 @@ If you find this repository is useful for you, please cite our paper:
 
 8. **Multi-Task Learning in Natural Language Processing: An Overview** [[Paper](https://dl.acm.org/doi/10.1145/3663363)]  
    *Shijie Chen, Yu Zhang, and Qiang Yang*  
-   ACM Computing Surveys (**CSUR**), 2024.  
+   ACM Computing Surveys (**CSUR**), 2024.
+
+## Finding a Single Pareto Optimal Solution
+### Loss Balancing Methods
+
+1. **Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics** [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf)]  
+   *Alex Kendall, Yarin Gal, and Roberto Cipolla*  
+   **CVPR**, 2018.
+   
+2. **End-To-End Multi-Task Learning With Attention** [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_End-To-End_Multi-Task_Learning_With_Attention_CVPR_2019_paper.pdf)]  
+   *Shikun Liu, Edward Johns, and Andrew J. Davison*  
+   **CVPR**, 2019.  
+
+3. **Multi-Objective Meta Learning** [[Paper](https://openreview.net/pdf?id=wKf9iSu_TEm)] [[Code](https://github.com/Baijiong-Lin/MOML))]  
+   *Feiyang Ye, Baijiong Lin, Zhixiong Yue, Pengxin Guo, Qiao Xiao, and Yu Zhang*  
+   **NeurIPS**, 2021
+
+4. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** [[Paper](https://openreview.net/forum?id=m4dO5L6eCp)]  
+   *Xi Lin, Xiaoyuan Zhang, Zhiyuan Yang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*  
+   **ICML**, 2024.
+
+### Gradient Balancing Methods
+#### Gradient Weighting Methods
+
+1. **GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks** [[Paper](http://proceedings.mlr.press/v80/chen18a/chen18a.pdf)]  
+   *Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich*  
+   **ICML**, 2018.
+
+2. **Multi-Task Learning as Multi-Objective Optimization** [[Paper](https://papers.nips.cc/paper/2018/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html)] [[Code](https://github.com/isl-org/MultiObjectiveOptimization))]  
+   *Ozan Sener, and Vladlen Koltun*  
+   **NeurIPS**, 2018
+
+3. **Towards Impartial Multi-task Learning** [[Paper](https://openreview.net/forum?id=IMPnRXEWpvr)]  
+   *Liyang Liu, Yi Li, Zhanghui Kuang, Jing-Hao Xue, Yimin Chen, Wenming Yang, Qingmin Liao, and Wayne Zhang*  
+   **ICLR**, 2021.
+
+4. **Conflict-Averse Gradient Descent for Multi-task Learning** [[Paper](https://openreview.net/forum?id=_61Qh8tULj_)] [[Code](https://github.com/Cranial-XIX/CAGrad)]  
+   *Bo Liu, Xingchao Liu, Xiaojie Jin, Peter Stone, and Qiang Liu*  
+   **NeurIPS**, 2021
+
+5. **Multi-Task Learning as a Bargaining Game** [[Paper](https://proceedings.mlr.press/v162/navon22a/navon22a.pdf)]  
+   *Aviv Navon, Aviv Shamsian, Idan Achituve, Haggai Maron, Kenji Kawaguchi, Gal Chechik, and Ethan Fetaya*  
+   **ICML**, 2022.
+
+6. **Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach** [[Paper](https://openreview.net/forum?id=dLAYGdKTi2)]  
+   *Heshan Devaka Fernando, Han Shen, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, and Tianyi Chen*  
+   **ICLR**, 2023.
+
+7. **Independent Component Alignment for Multi-Task Learning** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.html)]  
+   *Dmitry Senushkin, Nikolay Patakin, Arseny Kuznetsov, and Anton Konushin*  
+   **CVPR**, 2023.
+
+8. **FAMO: Fast Adaptive Multitask Optimization** [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/b2fe1ee8d936ac08dd26f2ff58986c8f-Abstract-Conference.html)]  
+   *Bo Liu, Yihao Feng, Peter Stone, and Qiang Liu*  
+   **NeurIPS**, 2023.
+
+9. **Fair Resource Allocation in Multi-Task Learning** [[Paper](https://openreview.net/forum?id=KLmWRMg6nL)]  
+   *Hao Ban and Kaiyi Ji*  
+   **ICML**, 2024.
+
+#### Gradient Manipulation Methods
+
+1. **Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout** [[Paper](https://papers.nips.cc/paper/2020/hash/16002f7a455a94aa4e91cc34ebdb9f2d-Abstract.html)] [[Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/graddrop.py))]  
+   *Zhao Chen, Jiquan Ngiam, Yanping Huang, Thang Luong, Henrik Kretzschmar, Yuning Chai, and Dragomir Anguelov*  
+   **NeurIPS**, 2020
+
+2. **Gradient Surgery for Multi-Task Learning** [[Paper](https://papers.nips.cc/paper/2020/hash/3fe78a8acf5fda99de95303940a2420c-Abstract.html)] [[Code](https://github.com/tianheyu927/PCGrad), [Unofficial Code](https://github.com/WeiChengTseng/Pytorch-PCGrad))]  
+   *Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, and Chelsea Finn*  
+   **NeurIPS**, 2020
+
+3. **Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models** [[Paper](https://openreview.net/forum?id=F1vEjWK-lH_)]    
+   *Zirui Wang, Yulia Tsvetkov, Orhan Firat, and Yuan Cao*  
+   **ICLR**, 2021
 
 ## Resources
 ### Software
