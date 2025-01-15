@@ -27,3 +27,5 @@ If you find this repository is useful for you, please cite our paper:
 | :-------- | :---- | :-------- |
 | TKDE 2021 | A survey on multi-task learning | [Link](https://ieeexplore.ieee.org/document/9392366/) |
 | arXiv 2020.09.10 | Multi-task learning with deep neural networks: A survey | [Link](https://arxiv.org/abs/2009.09796) |
+| arXiv 2024.04.29 | Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras | [Link](https://arxiv.org/abs/2404.18961)|
+| EURO Journal on Computational Optimization 2021 | Twenty years of continuous multiobjective optimization in the twenty-first century | [Link](https://www.sciencedirect.com/science/article/pii/S2192440621001416) |
