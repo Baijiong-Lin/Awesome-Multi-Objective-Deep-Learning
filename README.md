@@ -20,6 +20,8 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Contents
 - [Related Survey](#related-survey)
+- [Resources](#resources)
+  - [Software](#software)
 
 ## Related Survey
 
@@ -29,3 +31,13 @@ If you find this repository is useful for you, please cite our paper:
 | arXiv 2020.09.10 | Multi-task learning with deep neural networks: A survey | [Link](https://arxiv.org/abs/2009.09796) |
 | arXiv 2024.04.29 | Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras | [Link](https://arxiv.org/abs/2404.18961)|
 | EURO Journal on Computational Optimization 2021 | Twenty years of continuous multiobjective optimization in the twenty-first century | [Link](https://www.sciencedirect.com/science/article/pii/S2192440621001416) |
+
+## Resources
+### Software
+1. **LibMTL: A PyTorch Library for Multi-Task Learning** [[Paper](https://jmlr.org/papers/v24/22-0347.html)] [[Code](https://github.com/median-research-group/LibMTL)]    
+   *Baijiong Lin and Yu Zhang*  
+   Journal of Machine Learning Research (**JMLR**), 2023
+   
+2. **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch** [[Paper](https://openreview.net/forum?id=etdXLAMZoc)] [[Code](https://github.com/xzhang2523/libmoon)]  
+   *Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang*  
+   **NeurIPS** Datasets and Benchmarks Track, 2024       
