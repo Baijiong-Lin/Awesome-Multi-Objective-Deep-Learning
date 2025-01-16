@@ -176,7 +176,7 @@ If you find this repository is useful for you, please cite our paper:
 ## Finding a Finite Set of Solutions
 ### Preference Vector-based Methods
 
-1. **Pareto Multi-Task Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/685bfde03eb646c27ed565881917c71c-Paper.pdf)] [[Code](https://github.com/Xi-L/ParetoMTL)]
+1. **Pareto Multi-Task Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/685bfde03eb646c27ed565881917c71c-Paper.pdf)] [[Code](https://github.com/Xi-L/ParetoMTL)]   
    *Xi Lin, Hui-Ling Zhen, Zhenhua Li, Qingfu Zhang, and Sam Kwong*  
    **NeurIPS**, 2019.
 
@@ -295,10 +295,10 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Resources
 ### Software
-1. **LibMTL: A PyTorch Library for Multi-Task Learning** [[Paper](https://jmlr.org/papers/v24/22-0347.html)] [[Code](https://github.com/median-research-group/LibMTL)]    
+1. **LibMTL: A PyTorch Library for Multi-Task Learning** [[Paper](https://jmlr.org/papers/v24/22-0347.html)] [[Code](https://github.com/median-research-group/LibMTL)] [![GitHub stars](https://img.shields.io/github/stars/median-research-group/LibMTL.svg?style=social)](https://github.com/median-research-group/LibMTL) [![GitHub forks](https://img.shields.io/github/forks/median-research-group/LibMTL.svg?style=social)](https://github.com/median-research-group/LibMTL)    
    *Baijiong Lin and Yu Zhang*  
    Journal of Machine Learning Research (**JMLR**), 2023
    
-2. **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch** [[Paper](https://openreview.net/forum?id=etdXLAMZoc)] [[Code](https://github.com/xzhang2523/libmoon)]  
+2. **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch** [[Paper](https://openreview.net/forum?id=etdXLAMZoc)] [[Code](https://github.com/xzhang2523/libmoon)] [![GitHub stars](https://img.shields.io/github/stars/xzhang2523/libmoon.svg?style=social)](https://github.com/xzhang2523/libmoon) [![GitHub forks](https://img.shields.io/github/forks/xzhang2523/libmoon.svg?style=social)](https://github.com/xzhang2523/libmoon)    
    *Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang*  
    **NeurIPS** Datasets and Benchmarks Track, 2024       
