@@ -187,11 +187,21 @@ If you find this repository is useful for you, please cite our paper:
    *Michinari Momma, Chaosheng Dong, and Jia Liu*  
    **ICML**, 2022.
 
-5. **PMGDA: A Preference-based Multiple Gradient Descent Algorithm** [[Paper](https://arxiv.org/abs/2402.09492)]  
+5. **Multi-Objective Deep Learning with Adaptive Reference Vectors** [[Paper](https://openreview.net/forum?id=9-8YT5G36g-)]  
+   *Weiyu Chen and James T. Kwok*  
+   **NeurIPS**, 2022.
+
+6. **PMGDA: A Preference-based Multiple Gradient Descent Algorithm** [[Paper](https://arxiv.org/abs/2402.09492)]  
    *Xiaoyuan Zhang, Xi Lin, Qingfu Zhang*  
    arXiv:2402.09492, 2024.
 
-6. **FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning** 
+7. **FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning** [[Paper](https://openreview.net/forum?id=BmG3NgH5xu)] [[Code](https://github.com/lisha-chen/FERERO/)]  
+   *Lisha Chen, A F M Saif, Yanning Shen, and Tianyi Chen*  
+   **NeurIPS**, 2024.
+
+8. **Gliding over the Pareto Front with Uniform Designs** [[Paper](https://openreview.net/forum?id=WoEXVQcHFw)]   
+   *Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, Yifan Chen, and Qingfu Zhang*   
+   **NeurIPS**, 2024.
 
 ### Preference Vector-free Methods
 
