@@ -26,7 +26,12 @@ If you find this repository is useful for you, please cite our paper:
     - [Gradient Weighting Methods](#gradient-weighting-methods)
     - [Gradient Manipulation Methods](#gradient-manipulation-methods)
 - [Finding a Finite Set of Solutions](#finding-a-finite-set-of-solutions)
+  - [Preference Vector-based Methods](#preference-vector-based-methods)
+  - [Preference Vector-free Methods](#preference-vector-free-methods)
 - [Finding an Infinite Set of Solutions](#finding-an-infinite-set-of-solutions)
+  - [Hypernetwork-based Methods](#hypernetwork-based-methods)
+  - [Preference-Conditioned Network-based Methods](#preference-conditioned-network-based-methods)
+  - [Model Combination-based Methods](#model-combination-based-methods)
 - [Resources](#resources)
   - [Software](#software)
 
@@ -252,7 +257,7 @@ If you find this repository is useful for you, please cite our paper:
    *Tran Anh Tuan, Nguyen Viet Dung, and Tran Ngoc Thang*  
    arXiv:2402.05955, 2024.
 
-### Pareference-Conditioned Network-based Methods
+### Preference-Conditioned Network-based Methods
 
 1. **You Only Train Once: Loss-Conditional Training of Deep Networks** [[Paper](https://openreview.net/pdf?id=HyxY6JHKwr)]  
    *Alexey Dosovitskiy, and Josip Djolonga*  
@@ -267,6 +272,26 @@ If you find this repository is useful for you, please cite our paper:
    **CVPR**, 2022.
 
 ### Model Combination-based Methods
+
+1. **Pareto Manifold Learning: Tackling Multiple Tasks via Ensembles of Single-Task Models** [[Paper](https://openreview.net/forum?id=BUlx0rh7ha)] [[Code](https://github.com/nik-dim/pamal)]  
+   *Nikolaos Dimitriadis, Pascal Frossard, and Francois Fleuret*  
+   **ICML**, 2023.
+
+2. **Efficient Pareto Manifold Learning with Low-Rank Structure** [[Paper](https://openreview.net/forum?id=a2uFstsHPb)]   
+   *Weiyu Chen and James T. Kwok*   
+   **ICML**, 2024.
+
+3. **Panacea: Pareto Alignment via Preference Adaptation for LLMs** [[Paper](https://openreview.net/forum?id=gL5nT4y8fn)]  
+   *Yifan Zhong, Chengdong Ma, Xiaoyuan Zhang, Ziran Yang, Haojun Chen, Qingfu Zhang, Siyuan Qi, and Yaodong Yang*  
+   **NeurIPS**, 2024.
+
+4. **You Only Merge Once: Learning the Pareto Set of Preference-Aware Model Merging** [[Paper](https://arxiv.org/abs/2408.12105)]   
+   *Weiyu Chen and James T. Kwok*   
+   arXiv:2408.12105, 2024.
+
+5. **Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion** [[Paper](https://arxiv.org/pdf/2406.09770)]  
+   *Anke Tang, Li Shen, Yong Luo, Shiwei Liu, Han Hu, and Bo Du*  
+   arXiv:2406.09770, 2024.
 
 ## Resources
 ### Software
