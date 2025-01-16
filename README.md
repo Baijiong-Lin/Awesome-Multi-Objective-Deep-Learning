@@ -22,6 +22,9 @@ If you find this repository is useful for you, please cite our paper:
 - [Related Survey](#related-survey)
 - [Finding a Single Pareto Optimal Solution](#finding-a-single-pareto-optimal-solution)
   - [Loss Balancing Methods](#loss-balancing-methods)
+  - [Gradient Balancing Methods](#gradient-balancing-methods)
+    - [Gradient Weighting Methods](#gradient-weighting-methods)
+    - [Gradient Manipulation Methods](#gradient-manipulation-methods)
 - [Resources](#resources)
   - [Software](#software)
 
@@ -77,6 +80,10 @@ If you find this repository is useful for you, please cite our paper:
 4. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** [[Paper](https://openreview.net/forum?id=m4dO5L6eCp)]  
    *Xi Lin, Xiaoyuan Zhang, Zhiyuan Yang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*  
    **ICML**, 2024.
+
+5. **Multi-Objective Meta-Learning** [[Paper](https://doi.org/10.1016/j.artint.2024.104184)]  
+   *Feiyang Ye, Baijiong Lin, Zhixiong Yue, Yu Zhang, and Ivor W. Tsang*   
+   Artificial Intelligence (**AIJ**), 2024 
 
 ### Gradient Balancing Methods
 #### Gradient Weighting Methods
