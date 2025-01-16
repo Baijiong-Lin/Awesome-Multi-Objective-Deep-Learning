@@ -20,11 +20,13 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Contents
 - [Related Survey](#related-survey)
-- [Finding a Single Pareto Optimal Solution](#finding-a-single-pareto-optimal-solution)
+- [Finding a Single Solution](#finding-a-single-solution)
   - [Loss Balancing Methods](#loss-balancing-methods)
   - [Gradient Balancing Methods](#gradient-balancing-methods)
     - [Gradient Weighting Methods](#gradient-weighting-methods)
     - [Gradient Manipulation Methods](#gradient-manipulation-methods)
+- [Finding a Finite Set of Solutions](#finding-a-finite-set-of-solutions)
+- [Finding an Infinite Set of Solutions](#finding-an-infinite-set-of-solutions)
 - [Resources](#resources)
   - [Software](#software)
 
@@ -62,7 +64,7 @@ If you find this repository is useful for you, please cite our paper:
    *Shijie Chen, Yu Zhang, and Qiang Yang*  
    ACM Computing Surveys (**CSUR**), 2024.
 
-## Finding a Single Pareto Optimal Solution
+## Finding a Single Solution
 ### Loss Balancing Methods
 
 1. **Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics** [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf)]  
@@ -165,6 +167,35 @@ If you find this repository is useful for you, please cite our paper:
 3. **Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models** [[Paper](https://openreview.net/forum?id=F1vEjWK-lH_)]    
    *Zirui Wang, Yulia Tsvetkov, Orhan Firat, and Yuan Cao*  
    **ICLR**, 2021
+
+## Finding a Finite Set of Solutions
+### Preference Vector-based Methods
+
+1. **Pareto Multi-Task Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/685bfde03eb646c27ed565881917c71c-Paper.pdf)]  
+   *Xi Lin, Hui-Ling Zhen, Zhenhua Li, Qingfu Zhang, and Sam Kwong*  
+   **NeurIPS**, 2019.
+
+2. **Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization** [[Paper](https://proceedings.mlr.press/v119/mahapatra20a.html)]  
+   *Debabrata Mahapatra and Vaibhav Rajan*  
+   **ICML**, 2020.
+
+3. **Exact Pareto Optimal Search for Multi-Task Learning and Multi-Criteria Decision-Making** [[Paper](https://arxiv.org/abs/2108.00597v2)]  
+   *Debabrata Mahapatra and Vaibhav Rajan*  
+   **arXiv:2108.00597**, 2021
+
+4. **A Multi-objective / Multi-task Learning Framework Induced by Pareto Stationarity** [[Paper](https://proceedings.mlr.press/v162/momma22a.html)]  
+   *Michinari Momma, Chaosheng Dong, and Jia Liu*  
+   **ICML**, 2022.
+
+5. **PMGDA: A Preference-based Multiple Gradient Descent Algorithm** [[Paper](https://arxiv.org/abs/2402.09492)]  
+   *Xiaoyuan Zhang, Xi Lin, Qingfu Zhang*  
+   arXiv:2402.09492, 2024.
+
+6. **FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning** 
+
+### Preference Vector-free Methods
+
+## Finding an Infinite Set of Solutions
 
 ## Resources
 ### Software
