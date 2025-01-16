@@ -73,17 +73,37 @@ If you find this repository is useful for you, please cite our paper:
    *Shikun Liu, Edward Johns, and Andrew J. Davison*  
    **CVPR**, 2019.  
 
-3. **Multi-Objective Meta Learning** [[Paper](https://openreview.net/pdf?id=wKf9iSu_TEm)] [[Code](https://github.com/Baijiong-Lin/MOML))]  
+3. **Multi-Objective Meta Learning** [[Paper](https://openreview.net/pdf?id=wKf9iSu_TEm)] [[Code](https://github.com/Baijiong-Lin/MOML)]  
    *Feiyang Ye, Baijiong Lin, Zhixiong Yue, Pengxin Guo, Qiao Xiao, and Yu Zhang*  
    **NeurIPS**, 2021
 
-4. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** [[Paper](https://openreview.net/forum?id=m4dO5L6eCp)]  
+4. **Towards Impartial Multi-task Learning** [[Paper](https://openreview.net/forum?id=IMPnRXEWpvr)]  
+   *Liyang Liu, Yi Li, Zhanghui Kuang, Jing-Hao Xue, Yimin Chen, Wenming Yang, Qingmin Liao, and Wayne Zhang*  
+   **ICLR**, 2021.
+
+5. **Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning** [[Paper](https://openreview.net/forum?id=jjtFD8A1Wx)]  
+   *Baijiong Lin, Feiyang Ye, Yu Zhang, and Ivor W. Tsang*  
+   Transactions on Machine Learning Research (**TMLR**), 2022.
+
+6. **Auto-Lambda: Disentangling Dynamic Task Relationships** [[Paper](https://openreview.net/forum?id=KKeCMim5VN)] [[Code](https://github.com/lorenmt/auto-lambda)]  
+   *Shikun Liu, Stephen James, Andrew Davison, Edward Johns*  
+   Transactions on Machine Learning Research (**TMLR**), 2022.
+
+7. **Dual-Balancing for Multi-Task Learning** [[Paper](https://arxiv.org/abs/2308.12029)]  
+   *Baijiong Lin, Weisen Jiang, Feiyang Ye, Yu Zhang, Pengguang Chen, Ying-Cong Chen, Shu Liu, and James T. Kwok*  
+   arXiv:2308.12029, 2023.
+
+8. **A First-Order Multi-Gradient Algorithm for Multi-Objective Bi-Level Optimization** [[Paper](https://ebooks.iospress.nl/doi/10.3233/FAIA240793)] [[Code](https://github.com/Baijiong-Lin/FORUM)]    
+   *Feiyang Ye, Baijiong Lin, Xiaofeng Cao, Yu Zhang, and Ivor W. Tsang*  
+   **ECAI**, 2024.
+
+9. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** [[Paper](https://openreview.net/forum?id=m4dO5L6eCp)]  
    *Xi Lin, Xiaoyuan Zhang, Zhiyuan Yang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*  
    **ICML**, 2024.
 
-5. **Multi-Objective Meta-Learning** [[Paper](https://doi.org/10.1016/j.artint.2024.104184)]  
+10. **Multi-Objective Meta-Learning** [[Paper](https://doi.org/10.1016/j.artint.2024.104184)]  
    *Feiyang Ye, Baijiong Lin, Zhixiong Yue, Yu Zhang, and Ivor W. Tsang*   
-   Artificial Intelligence (**AIJ**), 2024 
+   Artificial Intelligence (**AIJ**), 2024. 
 
 ### Gradient Balancing Methods
 #### Gradient Weighting Methods
@@ -92,7 +112,7 @@ If you find this repository is useful for you, please cite our paper:
    *Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich*  
    **ICML**, 2018.
 
-2. **Multi-Task Learning as Multi-Objective Optimization** [[Paper](https://papers.nips.cc/paper/2018/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html)] [[Code](https://github.com/isl-org/MultiObjectiveOptimization))]  
+2. **Multi-Task Learning as Multi-Objective Optimization** [[Paper](https://papers.nips.cc/paper/2018/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html)] [[Code](https://github.com/isl-org/MultiObjectiveOptimization)]  
    *Ozan Sener, and Vladlen Koltun*  
    **NeurIPS**, 2018
 
@@ -104,7 +124,7 @@ If you find this repository is useful for you, please cite our paper:
    *Bo Liu, Xingchao Liu, Xiaojie Jin, Peter Stone, and Qiang Liu*  
    **NeurIPS**, 2021
 
-5. **Multi-Task Learning as a Bargaining Game** [[Paper](https://proceedings.mlr.press/v162/navon22a/navon22a.pdf)]  
+5. **Multi-Task Learning as a Bargaining Game** [[Paper](https://proceedings.mlr.press/v162/navon22a/navon22a.pdf)] [[Code](https://github.com/AvivNavon/nash-mtl)]  
    *Aviv Navon, Aviv Shamsian, Idan Achituve, Haggai Maron, Kenji Kawaguchi, Gal Chechik, and Ethan Fetaya*  
    **ICML**, 2022.
 
@@ -112,7 +132,7 @@ If you find this repository is useful for you, please cite our paper:
    *Heshan Devaka Fernando, Han Shen, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, and Tianyi Chen*  
    **ICLR**, 2023.
 
-7. **Independent Component Alignment for Multi-Task Learning** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.html)]  
+7. **Independent Component Alignment for Multi-Task Learning** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.html)] [[Code](https://github.com/SamsungLabs/MTL)]  
    *Dmitry Senushkin, Nikolay Patakin, Arseny Kuznetsov, and Anton Konushin*  
    **CVPR**, 2023.
 
@@ -120,17 +140,25 @@ If you find this repository is useful for you, please cite our paper:
    *Bo Liu, Yihao Feng, Peter Stone, and Qiang Liu*  
    **NeurIPS**, 2023.
 
-9. **Fair Resource Allocation in Multi-Task Learning** [[Paper](https://openreview.net/forum?id=KLmWRMg6nL)]  
+9. **Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms** [[Paper](https://openreview.net/forum?id=4Ks8RPcXd9)] [[Code](https://github.com/OptMN-Lab/sdmgrad)]  
+   *Peiyao Xiao, Hao Ban, Kaiyi Ji*  
+   **NeurIPS**, 2023.
+
+10. **Dual-Balancing for Multi-Task Learning** [[Paper](https://arxiv.org/abs/2308.12029)]  
+    *Baijiong Lin, Weisen Jiang, Feiyang Ye, Yu Zhang, Pengguang Chen, Ying-Cong Chen, Shu Liu, and James T. Kwok*  
+    arXiv:2308.12029, 2023.
+
+11. **Fair Resource Allocation in Multi-Task Learning** [[Paper](https://openreview.net/forum?id=KLmWRMg6nL)] [[Code](https://github.com/OptMN-Lab/fairgrad)]  
    *Hao Ban and Kaiyi Ji*  
    **ICML**, 2024.
 
 #### Gradient Manipulation Methods
 
-1. **Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout** [[Paper](https://papers.nips.cc/paper/2020/hash/16002f7a455a94aa4e91cc34ebdb9f2d-Abstract.html)] [[Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/graddrop.py))]  
+1. **Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout** [[Paper](https://papers.nips.cc/paper/2020/hash/16002f7a455a94aa4e91cc34ebdb9f2d-Abstract.html)] [[Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/graddrop.py)]  
    *Zhao Chen, Jiquan Ngiam, Yanping Huang, Thang Luong, Henrik Kretzschmar, Yuning Chai, and Dragomir Anguelov*  
    **NeurIPS**, 2020
 
-2. **Gradient Surgery for Multi-Task Learning** [[Paper](https://papers.nips.cc/paper/2020/hash/3fe78a8acf5fda99de95303940a2420c-Abstract.html)] [[Code](https://github.com/tianheyu927/PCGrad), [Unofficial Code](https://github.com/WeiChengTseng/Pytorch-PCGrad))]  
+2. **Gradient Surgery for Multi-Task Learning** [[Paper](https://papers.nips.cc/paper/2020/hash/3fe78a8acf5fda99de95303940a2420c-Abstract.html)] [[Code](https://github.com/tianheyu927/PCGrad)]  
    *Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, and Chelsea Finn*  
    **NeurIPS**, 2020
 
