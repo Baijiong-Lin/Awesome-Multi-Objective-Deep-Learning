@@ -171,7 +171,7 @@ If you find this repository is useful for you, please cite our paper:
 ## Finding a Finite Set of Solutions
 ### Preference Vector-based Methods
 
-1. **Pareto Multi-Task Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/685bfde03eb646c27ed565881917c71c-Paper.pdf)]  
+1. **Pareto Multi-Task Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/685bfde03eb646c27ed565881917c71c-Paper.pdf)] [[Code](https://github.com/Xi-L/ParetoMTL)]
    *Xi Lin, Hui-Ling Zhen, Zhenhua Li, Qingfu Zhang, and Sam Kwong*  
    **NeurIPS**, 2019.
 
@@ -226,10 +226,47 @@ If you find this repository is useful for you, please cite our paper:
    arXiv:2405.19650, 2024.
 
 6. **Many-Objective Multi-Solution Transport** [[Paper](https://arxiv.org/abs/2403.04099)]   
-   *Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, and Tianyi Zhou*
+   *Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, and Tianyi Zhou*  
    arXiv:2403.04099, 2024.
 
 ## Finding an Infinite Set of Solutions
+### Hypernetwork-based Methods
+
+1. **Controllable Pareto Multi-Task Learning** [[Paper](https://arxiv.org/abs/2010.06313)]  
+   *Xi Lin, Zhiyuan Yang, Qingfu Zhang, and Sam Kwong*  
+   arXiv:2010.06313, 2020.
+
+2. **Learning the Pareto Front with Hypernetworks** [[Paper](https://openreview.net/forum?id=NjF772F4ZZR)] [[Code](https://github.com/AvivNavon/pareto-hypernetworks)]    
+   *Aviv Navon, Aviv Shamsian, Ethan Fetaya, and Gal Chechik*  
+   **ICLR**, 2021.
+
+3. **Learning a Neural Pareto Manifold Extractor with Constraints** [[Paper](https://openreview.net/forum?id=BcIfJuIscx5)]   
+   *Soumyajit Gupta, Gurpreet Singh, Raghu Bollapragada, and Matthew Lease*   
+   **UAI**, 2022.
+
+4. **Improving Pareto Front Learning via Multi-Sample Hypernetworks** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25953)]  
+   *Long P. Hoang, Dung D. Le, Tran Anh Tuan, and Tran Ngoc Thang*   
+   **AAAI**, 2023.
+
+5. **A Hyper-Transformer model for Controllable Pareto Front Learning with Split Feasibility Constraints** [[Paper](https://arxiv.org/pdf/2402.05955)]  
+   *Tran Anh Tuan, Nguyen Viet Dung, and Tran Ngoc Thang*  
+   arXiv:2402.05955, 2024.
+
+### Pareference-Conditioned Network-based Methods
+
+1. **You Only Train Once: Loss-Conditional Training of Deep Networks** [[Paper](https://openreview.net/pdf?id=HyxY6JHKwr)]  
+   *Alexey Dosovitskiy, and Josip Djolonga*  
+   **ICLR** 2020.
+
+2. **Scalable Pareto Front Approximation for Deep Multi-Objective Learning** [[Paper](https://ieeexplore.ieee.org/document/9679014)]  
+   *Michael Ruchte and Josif Grabocka*  
+   **ICDM**, 2021.
+
+3. **Controllable Dynamic Multi-Task Architectures** [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Raychaudhuri_Controllable_Dynamic_Multi-Task_Architectures_CVPR_2022_paper.html)]   
+   *Dripta S. Raychaudhuri, Yumin Suh, Samuel Schulter, Xiang Yu, Masoud Faraki, Amit K. Roy-Chowdhury, and Manmohan Chandraker*   
+   **CVPR**, 2022.
+
+### Model Combination-based Methods
 
 ## Resources
 ### Software
