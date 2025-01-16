@@ -181,7 +181,7 @@ If you find this repository is useful for you, please cite our paper:
 
 3. **Exact Pareto Optimal Search for Multi-Task Learning and Multi-Criteria Decision-Making** [[Paper](https://arxiv.org/abs/2108.00597v2)]  
    *Debabrata Mahapatra and Vaibhav Rajan*  
-   **arXiv:2108.00597**, 2021
+   arXiv:2108.00597, 2021
 
 4. **A Multi-objective / Multi-task Learning Framework Induced by Pareto Stationarity** [[Paper](https://proceedings.mlr.press/v162/momma22a.html)]  
    *Michinari Momma, Chaosheng Dong, and Jia Liu*  
@@ -192,7 +192,7 @@ If you find this repository is useful for you, please cite our paper:
    **NeurIPS**, 2022.
 
 6. **PMGDA: A Preference-based Multiple Gradient Descent Algorithm** [[Paper](https://arxiv.org/abs/2402.09492)]  
-   *Xiaoyuan Zhang, Xi Lin, Qingfu Zhang*  
+   *Xiaoyuan Zhang, Xi Lin, and Qingfu Zhang*  
    arXiv:2402.09492, 2024.
 
 7. **FERERO: A Flexible Framework for Preference-Guided Multi-Objective Learning** [[Paper](https://openreview.net/forum?id=BmG3NgH5xu)] [[Code](https://github.com/lisha-chen/FERERO/)]  
@@ -204,6 +204,30 @@ If you find this repository is useful for you, please cite our paper:
    **NeurIPS**, 2024.
 
 ### Preference Vector-free Methods
+
+1. **Multi-objective Optimization by Uncrowded Hypervolume Gradient Ascent** [[Paper](https://doi.org/10.1007/978-3-030-58115-2_13)] [[Code](https://github.com/scmaree/uncrowded-hypervolume)]   
+   *Timo M. Deist, Stefanus C. Maree, Tanja Alderliesten, and Peter A.N. Bosman*  
+   **PPSN**, 2020.
+
+2. **Multi-Objective Learning to Predict Pareto Fronts Using Hypervolume Maximization** [[Paper](https://arxiv.org/abs/2102.04523)]   
+   *Timo M. Deist, Monika Grewal, Frank J.W.M. Dankers, Tanja Alderliesten, and Peter A.N. Bosman*   
+   arXiv:2102.04523, 2021.
+
+3. **Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent** [[Paper](https://openreview.net/forum?id=S2-j0ZegyrE)] [[Code](https://github.com/gnobitab/MultiObjectiveSampling)]  
+   *Xingchao Liu, Xin Tong, and Qiang Liu*   
+   **NeurIPS**, 2021.
+
+4. **Efficient Algorithms for Sum-Of-Minimum Optimization** [[Paper](https://openreview.net/forum?id=jsmaWEdx9g)]   
+   *Lisang Ding, Ziang Chen, Xinshang Wang, and Wotao Yin*   
+   **ICML**, 2024.
+
+5. **Few for Many: Tchebycheff Set Scalarization for Many-Objective Optimization** [[Paper](https://arxiv.org/abs/2405.19650)]   
+   *Xi Lin, Yilu Liu, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*   
+   arXiv:2405.19650, 2024.
+
+6. **Many-Objective Multi-Solution Transport** [[Paper](https://arxiv.org/abs/2403.04099)]   
+   *Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, and Tianyi Zhou*
+   arXiv:2403.04099, 2024.
 
 ## Finding an Infinite Set of Solutions
 
