@@ -9,6 +9,9 @@
 <sup><b>1</b></sup>HKUST, <sup><b>2</b></sup>CityU, <sup><b>3</b></sup>HKUST(GZ), <sup><b>4</b></sup>UIUC, <b>\*</b>Equal Contribution
 <br/>
 
+![MODL](https://github.com/user-attachments/assets/a7322dce-dd6b-4f2f-a16f-6e998bfef161)
+
+
 If you find this repository is useful for you, please cite our paper:
 ```
 @article{2025modl,
