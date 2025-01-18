@@ -1,6 +1,9 @@
 # Awesome-Multi-Objective-Deep-Learning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![paper](https://img.shields.io/badge/arXiv-2501.xxxxx-b31b1b.svg)](https://arxiv.org/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaijiong-Lin%2FAwesome-Multi-Objective-Deep-Learning&count_bg=%2379C83D&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Baijiong-Lin/Awesome-Multi-Objective-Deep-Learning) 
 
 :star: This repository hosts a curated collection of literature associated with **gradient-based multi-objective algorithms** in deep learning. Feel free to star and fork. For further details, refer to the following paper:
 
