@@ -12,7 +12,8 @@
 <sup><b>1</b></sup>HKUST, <sup><b>2</b></sup>CityU, <sup><b>3</b></sup>HKUST(GZ), <sup><b>4</b></sup>UIUC, <b>\*</b>Equal Contribution
 <br/>
 
-![MODL](https://github.com/user-attachments/assets/44ecba7b-3819-4d5c-bedd-6947f921d4e8)
+![MODL](https://github.com/user-attachments/assets/87e893b2-eca7-4ae8-a6bf-9e1a48fedf31)
+
 
 If you find this repository is useful for you, please cite our paper:
 ```
@@ -87,7 +88,7 @@ If you find this repository is useful for you, please cite our paper:
 
 3. **Multi-Objective Meta Learning** [[Paper](https://openreview.net/pdf?id=wKf9iSu_TEm)] [[Code](https://github.com/Baijiong-Lin/MOML)]  
    *Feiyang Ye, Baijiong Lin, Zhixiong Yue, Pengxin Guo, Qiao Xiao, and Yu Zhang*  
-   **NeurIPS**, 2021
+   **NeurIPS**, 2021; [Journal version](https://doi.org/10.1016/j.artint.2024.104184) in **AIJ**, 2024.
 
 4. **Towards Impartial Multi-task Learning** [[Paper](https://openreview.net/forum?id=IMPnRXEWpvr)]  
    *Liyang Liu, Yi Li, Zhanghui Kuang, Jing-Hao Xue, Yimin Chen, Wenming Yang, Qingmin Liao, and Wayne Zhang*  
@@ -98,7 +99,7 @@ If you find this repository is useful for you, please cite our paper:
    Transactions on Machine Learning Research (**TMLR**), 2022.
 
 6. **Auto-Lambda: Disentangling Dynamic Task Relationships** [[Paper](https://openreview.net/forum?id=KKeCMim5VN)] [[Code](https://github.com/lorenmt/auto-lambda)]  
-   *Shikun Liu, Stephen James, Andrew Davison, Edward Johns*  
+   *Shikun Liu, Stephen James, Andrew Davison, and Edward Johns*  
    Transactions on Machine Learning Research (**TMLR**), 2022.
 
 7. **Dual-Balancing for Multi-Task Learning** [[Paper](https://arxiv.org/abs/2308.12029)]  
@@ -113,10 +114,6 @@ If you find this repository is useful for you, please cite our paper:
    *Xi Lin, Xiaoyuan Zhang, Zhiyuan Yang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*  
    **ICML**, 2024.
 
-10. **Multi-Objective Meta-Learning** [[Paper](https://doi.org/10.1016/j.artint.2024.104184)]  
-   *Feiyang Ye, Baijiong Lin, Zhixiong Yue, Yu Zhang, and Ivor W. Tsang*   
-   Artificial Intelligence (**AIJ**), 2024. 
-
 ### Gradient Balancing Methods
 #### Gradient Weighting Methods
 
@@ -125,7 +122,7 @@ If you find this repository is useful for you, please cite our paper:
    **ICML**, 2018.
 
 2. **Multi-Task Learning as Multi-Objective Optimization** [[Paper](https://papers.nips.cc/paper/2018/hash/432aca3a1e345e339f35a30c8f65edce-Abstract.html)] [[Code](https://github.com/isl-org/MultiObjectiveOptimization)]  
-   *Ozan Sener, and Vladlen Koltun*  
+   *Ozan Sener and Vladlen Koltun*  
    **NeurIPS**, 2018
 
 3. **Towards Impartial Multi-task Learning** [[Paper](https://openreview.net/forum?id=IMPnRXEWpvr)]  
@@ -153,7 +150,7 @@ If you find this repository is useful for you, please cite our paper:
    **NeurIPS**, 2023.
 
 9. **Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms** [[Paper](https://openreview.net/forum?id=4Ks8RPcXd9)] [[Code](https://github.com/OptMN-Lab/sdmgrad)]  
-   *Peiyao Xiao, Hao Ban, Kaiyi Ji*  
+   *Peiyao Xiao, Hao Ban, and Kaiyi Ji*  
    **NeurIPS**, 2023.
 
 10. **Dual-Balancing for Multi-Task Learning** [[Paper](https://arxiv.org/abs/2308.12029)]  
@@ -265,7 +262,7 @@ If you find this repository is useful for you, please cite our paper:
 ### Preference-Conditioned Network-based Methods
 
 1. **You Only Train Once: Loss-Conditional Training of Deep Networks** [[Paper](https://openreview.net/pdf?id=HyxY6JHKwr)]  
-   *Alexey Dosovitskiy, and Josip Djolonga*  
+   *Alexey Dosovitskiy and Josip Djolonga*  
    **ICLR** 2020.
 
 2. **Scalable Pareto Front Approximation for Deep Multi-Objective Learning** [[Paper](https://ieeexplore.ieee.org/document/9679014)]  
@@ -298,12 +295,16 @@ If you find this repository is useful for you, please cite our paper:
    *Anke Tang, Li Shen, Yong Luo, Shiwei Liu, Han Hu, and Bo Du*  
    arXiv:2406.09770, 2024.
 
+6. **Pareto Low-Rank Adapters: Efficient Multi-Task Learning with Preferences** [[Paper](https://arxiv.org/abs/2407.08056)]   
+   *Nikolaos Dimitriadis, Pascal Frossard, and Francois Fleuret*   
+   arXiv:2407.08056, 2024.
+
 ## Resources
 ### Software
 1. **LibMTL: A PyTorch Library for Multi-Task Learning** [[Paper](https://jmlr.org/papers/v24/22-0347.html)] [[Code](https://github.com/median-research-group/LibMTL)] [![GitHub stars](https://img.shields.io/github/stars/median-research-group/LibMTL.svg?style=social)](https://github.com/median-research-group/LibMTL) [![GitHub forks](https://img.shields.io/github/forks/median-research-group/LibMTL.svg?style=social)](https://github.com/median-research-group/LibMTL)    
    *Baijiong Lin and Yu Zhang*  
-   Journal of Machine Learning Research (**JMLR**), 2023
+   Journal of Machine Learning Research (**JMLR**), 2023.
    
 2. **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch** [[Paper](https://openreview.net/forum?id=etdXLAMZoc)] [[Code](https://github.com/xzhang2523/libmoon)] [![GitHub stars](https://img.shields.io/github/stars/xzhang2523/libmoon.svg?style=social)](https://github.com/xzhang2523/libmoon) [![GitHub forks](https://img.shields.io/github/forks/xzhang2523/libmoon.svg?style=social)](https://github.com/xzhang2523/libmoon)    
    *Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang*  
-   **NeurIPS** Datasets and Benchmarks Track, 2024       
+   **NeurIPS** Datasets and Benchmarks Track, 2024.       
