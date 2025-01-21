@@ -75,6 +75,10 @@ If you find this repository is useful for you, please cite our paper:
    *Shijie Chen, Yu Zhang, and Qiang Yang*  
    ACM Computing Surveys (**CSUR**), 2024.
 
+9. **Multi-objective Deep Learning: Taxonomy and Survey of the State of the Art** [[Paper](https://arxiv.org/abs/2412.01566)]   
+   *Sebastian Peitz and Sedjro Salomon Hotegni*    
+   arXiv:2412.01566, 2024.
+
 ## Finding a Single Solution
 ### Loss Balancing Methods
 
