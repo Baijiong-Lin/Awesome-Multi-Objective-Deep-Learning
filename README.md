@@ -1,13 +1,13 @@
 # Awesome-Multi-Objective-Deep-Learning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![paper](https://img.shields.io/badge/arXiv-2501.10945-b31b1b.svg)](https://arxiv.org/2501.10945)
+[![paper](https://img.shields.io/badge/arXiv-2501.10945-b31b1b.svg)](https://arxiv.org/abs/2501.10945)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaijiong-Lin%2FAwesome-Multi-Objective-Deep-Learning&count_bg=%2379C83D&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Baijiong-Lin/Awesome-Multi-Objective-Deep-Learning) 
 
 :star: This repository hosts a curated collection of literature associated with **gradient-based multi-objective algorithms** in deep learning. Feel free to star and fork. For further details, refer to the following paper:
 
-**[Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond](https://arxiv.org/2501.10945)**<br/>
+**[Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond](https://arxiv.org/abs/2501.10945)**<br/>
 [Weiyu Chen](https://weiyuchen.cc/)<sup><b>1,\*</b></sup>, [Xiaoyuan Zhang](https://xzhang2523.github.io/)<sup><b>2,\*</b></sup>, [Baijiong Lin](https://baijiong-lin.github.io/)<sup><b>3,\*</b></sup>, [Xi Lin](https://xi-l.github.io/)<sup><b>2</b></sup>, [Han Zhao](https://hanzhaoml.github.io/)<sup><b>4</b></sup>, [Qingfu Zhang](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en)<sup><b>2</b></sup>, and [James T. Kwok](https://cse.hkust.edu.hk/~jamesk/)<sup><b>1</b></sup><br/>
 <sup><b>1</b></sup>HKUST, <sup><b>2</b></sup>CityU, <sup><b>3</b></sup>HKUST(GZ), <sup><b>4</b></sup>UIUC, <b>\*</b>Equal Contribution
 <br/>
