@@ -167,7 +167,7 @@ If you find this repository is useful for you, please cite our paper:
    **ICML**, 2024.
 
 12. **Jacobian Descent for Multi-Objective Optimization** [[Paper](https://arxiv.org/abs/2406.16232)] [[Code](https://github.com/TorchJD/torchjd)]   
-   *Pierre Quinton and Valérian Rey*
+   *Pierre Quinton and Valérian Rey*  
    arXiv:2406.16232, 2024.
 
 #### Gradient Manipulation Methods
@@ -239,7 +239,7 @@ If you find this repository is useful for you, please cite our paper:
 
 5. **Few for Many: Tchebycheff Set Scalarization for Many-Objective Optimization** [[Paper](https://arxiv.org/abs/2405.19650)]   
    *Xi Lin, Yilu Liu, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*   
-   arXiv:2405.19650, 2024.
+   **ICLR**, 2025.
 
 6. **Many-Objective Multi-Solution Transport** [[Paper](https://arxiv.org/abs/2403.04099)]   
    *Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, and Tianyi Zhou*  
