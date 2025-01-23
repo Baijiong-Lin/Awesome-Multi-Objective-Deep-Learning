@@ -166,6 +166,10 @@ If you find this repository is useful for you, please cite our paper:
    *Hao Ban and Kaiyi Ji*  
    **ICML**, 2024.
 
+12. **Jacobian Descent for Multi-Objective Optimization** [[Paper](https://arxiv.org/abs/2406.16232)] [[Code](https://github.com/TorchJD/torchjd)]   
+   *Pierre Quinton and Valérian Rey*
+   arXiv:2406.16232, 2024.
+
 #### Gradient Manipulation Methods
 
 1. **Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout** [[Paper](https://papers.nips.cc/paper/2020/hash/16002f7a455a94aa4e91cc34ebdb9f2d-Abstract.html)] [[Code](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/graddrop.py)]  
@@ -312,4 +316,4 @@ If you find this repository is useful for you, please cite our paper:
    
 2. **LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch** [[Paper](https://openreview.net/forum?id=etdXLAMZoc)] [[Code](https://github.com/xzhang2523/libmoon)] [![GitHub stars](https://img.shields.io/github/stars/xzhang2523/libmoon.svg?style=social)](https://github.com/xzhang2523/libmoon) [![GitHub forks](https://img.shields.io/github/forks/xzhang2523/libmoon.svg?style=social)](https://github.com/xzhang2523/libmoon)    
    *Xiaoyuan Zhang, Liang Zhao, Yingying Yu, Xi Lin, Zhenkun Wang, Han Zhao, and Qingfu Zhang*  
-   **NeurIPS** Datasets and Benchmarks Track, 2024.       
+   **NeurIPS** Datasets and Benchmarks Track, 2024.
