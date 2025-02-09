@@ -136,39 +136,59 @@ If you find this repository is useful for you, please cite our paper:
 
 4. **Conflict-Averse Gradient Descent for Multi-task Learning** [[Paper](https://openreview.net/forum?id=_61Qh8tULj_)] [[Code](https://github.com/Cranial-XIX/CAGrad)]  
    *Bo Liu, Xingchao Liu, Xiaojie Jin, Peter Stone, and Qiang Liu*  
-   **NeurIPS**, 2021
+   **NeurIPS**, 2021.
 
-5. **Multi-Task Learning as a Bargaining Game** [[Paper](https://proceedings.mlr.press/v162/navon22a/navon22a.pdf)] [[Code](https://github.com/AvivNavon/nash-mtl)]  
+5. **The stochastic multi-gradient algorithm for multi-objective optimization and its application to supervised machine learning** [[Paper](https://link.springer.com/article/10.1007/s10479-021-04033-z)]    
+   *Suyun Liu and Luis Nunes Vicente*    
+   **Annals of Operations Research**, 2021.
+
+6. **On the Convergence of Stochastic Multi-Objective Gradient Manipulation and Beyond** [[Paper](https://openreview.net/forum?id=ScwfQ7hdwyP)]   
+   *Shiji Zhou, Wenpeng Zhang, Jiyan Jiang, Wenliang Zhong, Jinjie GU, and Wenwu Zhu*   
+   **NeurIPS**, 2022.
+
+7. **Multi-Task Learning as a Bargaining Game** [[Paper](https://proceedings.mlr.press/v162/navon22a/navon22a.pdf)] [[Code](https://github.com/AvivNavon/nash-mtl)]  
    *Aviv Navon, Aviv Shamsian, Idan Achituve, Haggai Maron, Kenji Kawaguchi, Gal Chechik, and Ethan Fetaya*  
    **ICML**, 2022.
 
-6. **Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach** [[Paper](https://openreview.net/forum?id=dLAYGdKTi2)]  
+8. **Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach** [[Paper](https://openreview.net/forum?id=dLAYGdKTi2)]  
    *Heshan Devaka Fernando, Han Shen, Miao Liu, Subhajit Chaudhury, Keerthiram Murugesan, and Tianyi Chen*  
    **ICLR**, 2023.
 
-7. **Independent Component Alignment for Multi-Task Learning** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.html)] [[Code](https://github.com/SamsungLabs/MTL)]  
+9. **Independent Component Alignment for Multi-Task Learning** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.html)] [[Code](https://github.com/SamsungLabs/MTL)]  
    *Dmitry Senushkin, Nikolay Patakin, Arseny Kuznetsov, and Anton Konushin*  
    **CVPR**, 2023.
 
-8. **FAMO: Fast Adaptive Multitask Optimization** [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/b2fe1ee8d936ac08dd26f2ff58986c8f-Abstract-Conference.html)]  
+10. **FAMO: Fast Adaptive Multitask Optimization** [[Paper](https://papers.nips.cc/paper_files/paper/2023/hash/b2fe1ee8d936ac08dd26f2ff58986c8f-Abstract-Conference.html)]  
    *Bo Liu, Yihao Feng, Peter Stone, and Qiang Liu*  
    **NeurIPS**, 2023.
 
-9. **Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms** [[Paper](https://openreview.net/forum?id=4Ks8RPcXd9)] [[Code](https://github.com/OptMN-Lab/sdmgrad)]  
+11. **Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms** [[Paper](https://openreview.net/forum?id=4Ks8RPcXd9)] [[Code](https://github.com/OptMN-Lab/sdmgrad)]  
    *Peiyao Xiao, Hao Ban, and Kaiyi Ji*  
    **NeurIPS**, 2023.
 
-10. **Dual-Balancing for Multi-Task Learning** [[Paper](https://arxiv.org/abs/2308.12029)]  
+12. **Three-Way Trade-Off in Multi-Objective Learning: Optimization, Generalization and Conflict-Avoidance** [[Paper](https://openreview.net/forum?id=yPkbdJxQ0o)] [[Code](https://github.com/heshandevaka/Trade-Off-MOL)]   
+   *Lisha Chen, Heshan Devaka Fernando, Yiming Ying, and Tianyi Chen*     
+   **NeurIPS**, 2023; [Journal version](https://www.jmlr.org/papers/v25/23-1287.html) in **JMLR**, 2024.
+
+13. **Dual-Balancing for Multi-Task Learning** [[Paper](https://arxiv.org/abs/2308.12029)]  
     *Baijiong Lin, Weisen Jiang, Feiyang Ye, Yu Zhang, Pengguang Chen, Ying-Cong Chen, Shu Liu, and James T. Kwok*  
     arXiv:2308.12029, 2023.
 
-11. **Fair Resource Allocation in Multi-Task Learning** [[Paper](https://openreview.net/forum?id=KLmWRMg6nL)] [[Code](https://github.com/OptMN-Lab/fairgrad)]  
+14. **Fair Resource Allocation in Multi-Task Learning** [[Paper](https://openreview.net/forum?id=KLmWRMg6nL)] [[Code](https://github.com/OptMN-Lab/fairgrad)]  
    *Hao Ban and Kaiyi Ji*  
    **ICML**, 2024.
 
-12. **Jacobian Descent for Multi-Objective Optimization** [[Paper](https://arxiv.org/abs/2406.16232)] [[Code](https://github.com/TorchJD/torchjd)]   
+15. **Jacobian Descent for Multi-Objective Optimization** [[Paper](https://arxiv.org/abs/2406.16232)] [[Code](https://github.com/TorchJD/torchjd)]   
    *Pierre Quinton and Valérian Rey*  
    arXiv:2406.16232, 2024.
+
+16. **PSMGD: Periodic Stochastic Multi-Gradient Descent for Fast Multi-Objective Optimization** [[Paper](https://arxiv.org/abs/2412.10961)]   
+   *Mingjing Xu, Peizhong Ju, Jia Liu, and Haibo Yang*   
+   **AAAI**, 2025.
+
+17. **MGDA Converges under Generalized Smoothness, Provably** [[Paper](https://openreview.net/forum?id=wgDB1QuxIA)]   
+   *Qi Zhang, Peiyao Xiao, Shaofeng Zou, and Kaiyi Ji*   
+   **ICLR**, 2025.
 
 #### Gradient Manipulation Methods
 
