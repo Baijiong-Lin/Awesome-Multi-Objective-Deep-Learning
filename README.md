@@ -261,9 +261,9 @@ If you find this repository is useful for you, please cite our paper:
    *Xi Lin, Yilu Liu, Xiaoyuan Zhang, Fei Liu, Zhenkun Wang, and Qingfu Zhang*   
    **ICLR**, 2025.
 
-6. **Many-Objective Multi-Solution Transport** [[Paper](https://arxiv.org/abs/2403.04099)]   
+6. **Many-Objective Multi-Solution Transport** [[Paper](https://openreview.net/forum?id=Neb17mimVH)]   
    *Ziyue Li, Tian Li, Virginia Smith, Jeff Bilmes, and Tianyi Zhou*  
-   arXiv:2403.04099, 2024.
+   **ICLR**, 2025.
 
 ## Finding an Infinite Set of Solutions
 ### Hypernetwork-based Methods
@@ -324,9 +324,9 @@ If you find this repository is useful for you, please cite our paper:
    *Anke Tang, Li Shen, Yong Luo, Shiwei Liu, Han Hu, and Bo Du*  
    arXiv:2406.09770, 2024.
 
-6. **Pareto Low-Rank Adapters: Efficient Multi-Task Learning with Preferences** [[Paper](https://arxiv.org/abs/2407.08056)]   
+6. **Pareto Low-Rank Adapters: Efficient Multi-Task Learning with Preferences** [[Paper](https://openreview.net/forum?id=icDoYdUhRa)]   
    *Nikolaos Dimitriadis, Pascal Frossard, and Francois Fleuret*   
-   arXiv:2407.08056, 2024.
+   **ICLR**, 2025.
 
 ## Resources
 ### Software
