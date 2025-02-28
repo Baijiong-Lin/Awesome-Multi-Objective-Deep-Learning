@@ -12,7 +12,8 @@
 <sup><b>1</b></sup>HKUST, <sup><b>2</b></sup>CityU, <sup><b>3</b></sup>HKUST(GZ), <sup><b>4</b></sup>UIUC, <b>\*</b>Equal Contribution
 <br/>
 
-![MODL](https://github.com/user-attachments/assets/87e893b2-eca7-4ae8-a6bf-9e1a48fedf31)
+![image](https://github.com/user-attachments/assets/9410bed7-019c-42f8-9b45-79e4e9e0aa71)
+
 
 
 If you find this repository is useful for you, please cite our paper:
@@ -33,8 +34,8 @@ If you find this repository is useful for you, please cite our paper:
     - [Gradient Weighting Methods](#gradient-weighting-methods)
     - [Gradient Manipulation Methods](#gradient-manipulation-methods)
 - [Finding a Finite Set of Solutions](#finding-a-finite-set-of-solutions)
-  - [Preference Vector-based Methods](#preference-vector-based-methods)
-  - [Preference Vector-free Methods](#preference-vector-free-methods)
+  - [Methods Based on Preference Vectors](#methods-based-on-preference-vectors)
+  - [Methods without Using Preference Vectors](#methods-without-using-preference-vectors)
 - [Finding an Infinite Set of Solutions](#finding-an-infinite-set-of-solutions)
   - [Hypernetwork-based Methods](#hypernetwork-based-methods)
   - [Preference-Conditioned Network-based Methods](#preference-conditioned-network-based-methods)
@@ -205,7 +206,7 @@ If you find this repository is useful for you, please cite our paper:
    **ICLR**, 2021
 
 ## Finding a Finite Set of Solutions
-### Preference Vector-based Methods
+### Methods Based on Preference Vectors
 
 1. **Pareto Multi-Task Learning** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/685bfde03eb646c27ed565881917c71c-Paper.pdf)] [[Code](https://github.com/Xi-L/ParetoMTL)]   
    *Xi Lin, Hui-Ling Zhen, Zhenhua Li, Qingfu Zhang, and Sam Kwong*  
@@ -239,7 +240,7 @@ If you find this repository is useful for you, please cite our paper:
    *Xiaoyuan Zhang, Genghui Li, Xi Lin, Yichi Zhang, Yifan Chen, and Qingfu Zhang*   
    **NeurIPS**, 2024.
 
-### Preference Vector-free Methods
+### Methods without Using Preference Vectors
 
 1. **Multi-objective Optimization by Uncrowded Hypervolume Gradient Ascent** [[Paper](https://doi.org/10.1007/978-3-030-58115-2_13)] [[Code](https://github.com/scmaree/uncrowded-hypervolume)]   
    *Timo M. Deist, Stefanus C. Maree, Tanja Alderliesten, and Peter A.N. Bosman*  
