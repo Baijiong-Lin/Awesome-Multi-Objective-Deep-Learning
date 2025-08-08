@@ -8,8 +8,8 @@
 :star: This repository hosts a curated collection of literature associated with **gradient-based multi-objective algorithms** in deep learning. Feel free to star and fork. For further details, refer to the following paper:
 
 **[Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond](https://arxiv.org/abs/2501.10945)**<br/>
-[Weiyu Chen](https://weiyuchen.cc/)<sup><b>1,\*</b></sup>, [Xiaoyuan Zhang](https://xzhang2523.github.io/)<sup><b>2,\*</b></sup>, [Baijiong Lin](https://baijiong-lin.github.io/)<sup><b>3,\*</b></sup>, [Xi Lin](https://xi-l.github.io/)<sup><b>2</b></sup>, [Han Zhao](https://hanzhaoml.github.io/)<sup><b>4</b></sup>, [Qingfu Zhang](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en)<sup><b>2</b></sup>, and [James T. Kwok](https://cse.hkust.edu.hk/~jamesk/)<sup><b>1</b></sup><br/>
-<sup><b>1</b></sup>HKUST, <sup><b>2</b></sup>CityU, <sup><b>3</b></sup>HKUST(GZ), <sup><b>4</b></sup>UIUC, <b>\*</b>Equal Contribution
+[Weiyu Chen](https://weiyuchen.cc/)<sup><b>1,\*</b></sup>, [Baijiong Lin](https://baijiong-lin.github.io/)<sup><b>2,\*</b></sup>, [Xiaoyuan Zhang](https://xzhang2523.github.io/)<sup><b>3,\*</b></sup>, [Xi Lin](https://xi-l.github.io/)<sup><b>3</b></sup>, [Han Zhao](https://hanzhaoml.github.io/)<sup><b>4</b></sup>, [Qingfu Zhang](https://scholar.google.com/citations?user=nhL9PHwAAAAJ&hl=en)<sup><b>3</b></sup>, and [James T. Kwok](https://cse.hkust.edu.hk/~jamesk/)<sup><b>1</b></sup><br/>
+<sup><b>1</b></sup>HKUST, <sup><b>2</b></sup>HKUST(GZ), <sup><b>3</b></sup>CityU, <sup><b>4</b></sup>UIUC, <b>\*</b>Equal Contribution
 <br/>
 
 ![image](https://github.com/user-attachments/assets/9410bed7-019c-42f8-9b45-79e4e9e0aa71)
@@ -20,7 +20,7 @@ If you find this repository is useful for you, please cite our paper:
 ```
 @article{chen2025modl,
       title={Gradient-Based Multi-Objective Deep Learning: Algorithms, Theories, Applications, and Beyond}, 
-      author={Weiyu Chen and Xiaoyuan Zhang and Baijiong Lin and Xi Lin and Han Zhao and Qingfu Zhang and James T. Kwok},
+      author={Weiyu Chen and Baijiong Lin and Xiaoyuan Zhang and Xi Lin and Han Zhao and Qingfu Zhang and James T. Kwok},
       journal={arXiv preprint arXiv:2501.10945},
       year={2025},
 }
