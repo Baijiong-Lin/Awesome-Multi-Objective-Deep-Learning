@@ -303,6 +303,10 @@ If you find this repository is useful for you, please cite our paper:
    *Dripta S. Raychaudhuri, Yumin Suh, Samuel Schulter, Xiang Yu, Masoud Faraki, Amit K. Roy-Chowdhury, and Manmohan Chandraker*   
    **CVPR**, 2022.
 
+4. **GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning** [[Paper](https://arxiv.org/abs/2601.20753)] [[Code](https://github.com/jzh001/GraphAllocBench)]  
+   *Zhiheng Jiang, Yunzhe Wang, Ryan Marr, Ellen Novoseller, Benjamin T. Files, and Volkan Ustun*  
+   arXiv:2601.20753, 2026.
+
 ### Model Combination-based Methods
 
 1. **Pareto Manifold Learning: Tackling Multiple Tasks via Ensembles of Single-Task Models** [[Paper](https://openreview.net/forum?id=BUlx0rh7ha)] [[Code](https://github.com/nik-dim/pamal)]  
